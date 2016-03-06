@@ -2,7 +2,7 @@
 
 A simple dripping paint effect, intended as a dynamic background
 
-See it in action: [Here](http://tholman.com/exp/paint/proof/).
+See it in action: [Here](http://tholman.com/dripping-paint/).
 
 # License
 
